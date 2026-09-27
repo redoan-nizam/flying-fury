@@ -67,7 +67,7 @@ void addPig(int x, int y, int size, int picture, int health)
 	pigs[pigCount].maxHealth = health;       // pig3 wears a helmet, so it is tough
 	pigs[pigCount].health = health;
 	pigs[pigCount].hurtCool = 0;
-	pigs[pigCount].special = 0;      // only level 5 turns this on
+	pigs[pigCount].special = 0;      
 	pigs[pigCount].dying = 0;
 	pigs[pigCount].dieTimer = 0;
 	pigs[pigCount].alive = 1;

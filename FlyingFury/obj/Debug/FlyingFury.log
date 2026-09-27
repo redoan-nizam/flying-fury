@@ -1,4 +1,4 @@
-﻿Build started 9/20/2026 7:58:29 PM.
+﻿Build started 9/25/2026 7:37:02 PM.
      1>Project "E:\FlyingFury_Check_Point_03\FlyingFury\FlyingFury\FlyingFury.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\FlyingFury_Check_Point_03\FlyingFury\FlyingFury\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\FlyingFury_Check_Point_03\FlyingFury\FlyingFury\obj\Debug\\" /Fd"E:\FlyingFury_Check_Point_03\FlyingFury\FlyingFury\obj\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
@@ -10,4 +10,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.62
+Time Elapsed 00:00:01.97

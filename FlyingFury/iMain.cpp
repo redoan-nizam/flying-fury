@@ -201,7 +201,7 @@ void fixedUpdate()
 int main()
 {
 	// background music and the game over sound
-	mciSendString("open \"Audios//background.mp3\" alias bgsong", NULL, 0, NULL);
+	mciSendString("open \"Audios//background.mpeg\" alias bgsong", NULL, 0, NULL);
 	mciSendString("open \"Audios//gameover.mp3\" alias ggsong", NULL, 0, NULL);
 	mciSendString("play bgsong repeat", NULL, 0, NULL);
 
